@@ -3,7 +3,7 @@
 ### Introduction
 
 This GitHub repository contains following information mentioned in ***Learning restricted regular expressions with interleaving from XML data*** including:
--   data sets used in experiments
+-    Introduction for existing inference methods and definitions for existing subclasses mentioned in this paper
 -   data sets used in experiments
 
 To **download** the repository go to https://github.com/ESIRE0424/Learning-restricted-regular-expressions-with-interleaving-from-XML-data
