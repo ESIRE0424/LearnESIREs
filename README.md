@@ -1,8 +1,6 @@
 # Learning restricted regular expressions with interleaving from XML data
 
-### XML schemas
-
-#### Introduction
+### Introduction
 
 This GitHub repository holds XML schemas mentioned in ***A Practical Approach for Solving the Deterministic Regular Expression Construction Problem*.** 
 
