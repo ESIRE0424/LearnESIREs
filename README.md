@@ -6,7 +6,7 @@
 
 This GitHub repository holds XML schemas mentioned in ***A Practical Approach for Solving the Deterministic Regular Expression Construction Problem*.** 
 
-To **download** the repository go to https://github.com/clRE/XMLSchemas 
+To **download** the repository go to https://github.com/ESIRE0424/Learning-restricted-regular-expressions-with-interleaving-from-XML-data
 
 ### View
 
