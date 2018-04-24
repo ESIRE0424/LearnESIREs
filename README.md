@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This GitHub repository contains following information mentioned in ***Learning restricted regular expressions with interleaving from XML data*.** 
+This GitHub repository contains following information mentioned in ***Learning restricted regular expressions with interleaving from XML data*.** including:
 
 To **download** the repository go to https://github.com/ESIRE0424/Learning-restricted-regular-expressions-with-interleaving-from-XML-data
 
